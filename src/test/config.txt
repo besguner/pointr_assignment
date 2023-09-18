@@ -1,0 +1,8 @@
+Username: esgunerb@gmail.com
+Password: testPass1
+SearchTerm: Salata kurutucu
+
+Username: esgunerb@gmail.com
+Password: testPass
+SearchTerm: dfjhdfjdfj
+
